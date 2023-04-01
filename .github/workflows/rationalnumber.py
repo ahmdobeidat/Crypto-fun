@@ -1,5 +1,4 @@
 from fractions import Fraction
-from decimal import Decimal
 def encrypt_text(input_str, list1, list2):
     """
     Maps characters from input_str to values in list2 based on their position in list1,
